@@ -1,0 +1,62 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+    scroll-behavior: smooth;
+
+}
+
+header{
+
+    background-color: #191970;
+    text-align: center;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+
+}
+header a{
+
+    font-size: 2rem;
+    font-style: none;
+    text-decoration: none;
+    color: white;    
+    padding-left: 0.9rem;
+
+}
+
+div{
+
+    padding-top: 2em;
+    text-align: center;
+
+}
+
+div h2{
+
+    padding-bottom: 0.7em;
+
+}
+.anotacao textarea{
+
+    width: 40%;
+
+}
+
+footer{
+
+    background-color: #191970;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+
+}
+
+footer a{
+
+    font-style: none;
+    text-decoration: none;
+    color: grey; 
+    
+}
